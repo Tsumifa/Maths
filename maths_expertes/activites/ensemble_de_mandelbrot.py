@@ -51,3 +51,4 @@ class Main:
 
 if __name__ == '__main__':
     main = Main(-2, 2, -2, 2, 100)
+    main2 = Main(-5, 5, -5, 5, 100)
