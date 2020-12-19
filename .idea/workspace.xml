@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73568595-1b80-4466-8e65-03072dc19f59" name="Default Changelist" comment="" />
+    <list default="true" id="73568595-1b80-4466-8e65-03072dc19f59" name="Default Changelist" comment="Adding new class call" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../programation/Python/start_python_project" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,22 +88,38 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding new class call" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new class call" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1260" height="241" key="GridCell.Tab.0.bottom" timestamp="1608155761678">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1608156649471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608156649471" />
+    <state width="1515" height="114" key="GridCell.Tab.0.bottom" timestamp="1608156650337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608156650337" />
+    <state width="1260" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155793199" />
+    <state width="1515" height="114" key="GridCell.Tab.0.center" timestamp="1608156650337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="114" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608156650337" />
+    <state width="1260" height="241" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155793199" />
+    <state width="1515" height="114" key="GridCell.Tab.0.left" timestamp="1608156650337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="114" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608156650337" />
+    <state width="1260" height="241" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155793199" />
+    <state width="1515" height="114" key="GridCell.Tab.0.right" timestamp="1608156650337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="114" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608156650337" />
+    <state width="1260" height="241" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155793199" />
+    <state x="2378" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608155817669">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155761678" />
-    <state width="1260" height="241" key="GridCell.Tab.0.center" timestamp="1608155761677">
-      <screen x="1920" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="241" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155761677" />
-    <state width="1260" height="241" key="GridCell.Tab.0.left" timestamp="1608155761677">
-      <screen x="1920" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="241" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155761677" />
-    <state width="1260" height="241" key="GridCell.Tab.0.right" timestamp="1608155761678">
-      <screen x="1920" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="241" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155761678" />
+    <state x="2378" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608155817669" />
   </component>
 </project>
